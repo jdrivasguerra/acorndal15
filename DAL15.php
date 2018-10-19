@@ -1,5 +1,6 @@
 <?php
 	//Sistema DAL15 (Data - Absoluteness - Latent)
+
 namespace DAL15{
 	class DAL15_gen{
 		#Propiedades
